@@ -1,2 +1,3 @@
 # landsat
 Landsat 下载器是一款面向遥感、地信、环保、农业、水利等领域的桌面取数工具。它直连微软 Planetary Computer，同步 USGS 官方 Collection 2 Level-2 产品，免注册、免付费、国内网络可直接使用。软件支持经纬度框选、日期与云量筛选，25 项资产（光学波段、地表温度系列、质量波段、元数据）任意勾选；提供 aria2c 与内置多线程双引擎，具备自动测速、签名到期自动续期、断点续传、TIF 完整性校验与坏文件自动补下能力，并支持只下载框选范围内的像素。下载结果按产品 ID 规范归档，可直接进入 QGIS、ArcGIS、ENVI 等后续流程。
+网盘exe 下载地址https://pan.baidu.com/s/14epFmJfcwpYPpUm2i_NojA?pwd=8888
